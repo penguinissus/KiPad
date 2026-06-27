@@ -1,6 +1,6 @@
 # KiPad
 A macropad built for the most common KiCAD shortcuts. 
-![Zine](assets/KiPad-Zine-V1.png)
+![Zine](assets/KiPad-Zine-V2.png)
 
 # User Instructions
 Assembly: 
@@ -28,3 +28,5 @@ PCB Assembly:
 ![pcb-assembly](assets/pcb.png)  
 Full Assembly:  
 ![full-assembly](assets/full-assembly.png)
+
+# BOM
