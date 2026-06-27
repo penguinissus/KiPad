@@ -1,4 +1,6 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12";"D_DO-35_SOD27_P7.62mm_Horizontal";12;"1N4148";;;
-2;"SW1 - ESC, SW2 - A, SW3 - X, SW4 - CTRL+S, SW5 - W, SW6 - V, SW7 - DELETE, SW8 - CTRL+L, SW9 - F, SW10 - ENTER, SW11 - R, SW12 - B";"SW_Cherry_MX_1.00u_PCB";12;"SW_Push_45deg";;;
-3;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+Part,#
+Cherry MX Switches,12
+Keycaps,12
+XIAO RP2040,1
+PCB,1
+Case (top and bottom),1
