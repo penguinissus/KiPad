@@ -30,3 +30,10 @@ Full Assembly:
 ![full-assembly](assets/full-assembly.png)
 
 # BOM
+|Part|Amount|Price (USD)|
+|----:|:-----|:------|
+|Cherry MX Switches|12|$5.63|
+|Keycaps|12 (1 of each design)|$0|
+|XIAO RP2040|1|$13.15|
+|PCB|1|$2|
+|Case (top and bottom)|1 each|$0|
